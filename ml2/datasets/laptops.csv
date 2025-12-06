@@ -1,0 +1,13 @@
+brand,model,cpu,gpu,ram_gb,storage_gb,price_usd
+Acer,Aspire 5,i3-1115G4,Integrated,8,256,410
+Acer,Nitro 5,i5-11400H,RTX 3050,16,512,850
+Asus,VivoBook 14,R5-5500U,Integrated,8,512,520
+Asus,ROG Strix G15,R7-5800H,RTX 3060,16,512,1400
+Dell,Inspiron 3511,i3-1115G4,Integrated,8,256,430
+Dell,G15,i5-12500H,RTX 3050 Ti,16,512,1150
+HP,Pavilion 14,i5-1135G7,Integrated,8,512,600
+HP,Victus 16,R5-5600H,RTX 3050,16,512,980
+Lenovo,IdeaPad 3,R3-5300U,Integrated,8,256,400
+Lenovo,Legion 5,R7-5800H,RTX 3060,16,512,1350
+MSI,GF63 Thin,i5-11400H,GTX 1650,8,512,750
+MSI,Cyborg 15,i7-12650H,RTX 4050,16,512,1500
