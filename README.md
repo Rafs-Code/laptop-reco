@@ -10,6 +10,7 @@ scikit-learn dan UI interaktif menggunakan Streamlit.
     laptop-reco/
     ├─ venv/
     ├─ ml2/
+    │  ├─ main.ipynb
     │  ├─ __init__.py
     │  ├─ utils.py
     │  ├─ datasets/
