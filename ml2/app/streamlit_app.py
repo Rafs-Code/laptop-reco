@@ -54,12 +54,37 @@ st.markdown("""
 hr {border: none; border-top: 1px solid #333; margin: 15px 0;}
 </style>
 """, unsafe_allow_html=True)
-
 # ============================
 # TITLE
 # ============================
 st.markdown("<div class='title-grad'>Laptop Recommender</div>", unsafe_allow_html=True)
 st.write("Atur preferensi kamu di bawah. Sistem akan mencari laptop paling cocok berdasarkan budget dan kebutuhan.")
+
+# ---------------------------
+# SHOW LOGO (gunakan assets/logo-laptop-reco.png)
+# ---------------------------
+from PIL import Image
+
+# path relatif ke project root (PROJECT_ROOT sudah didefinisikan)
+logo_path = PROJECT_ROOT / "assets" / "logo-laptop-reco.png"
+
+if logo_path.exists():
+    try:
+        logo_img = Image.open(logo_path)
+        # header: logo di tengah + judul kecil di samping (2 kolom)
+        col_a, col_b, col_c = st.columns([1,4,1])
+        with col_a:
+            st.write("")  # spacer kiri
+        with col_b:
+            st.image(logo_img, width=400)
+        with col_c:
+            st.write("")  # spacer kanan
+    except Exception as e:
+        st.warning(f"Logo gagal dimuat: {e}")
+else:
+    # fallback: tidak perlu menampilkan error yang besar, cukup hint kecil
+    st.info("Tip: letakkan logo di `assets/logo-laptop-reco.png` untuk menampilkan header khusus.")
+
 
 # ============================
 # INPUT SECTION
