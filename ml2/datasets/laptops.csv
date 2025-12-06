@@ -11,3 +11,39 @@ Lenovo,IdeaPad 3,R3-5300U,Integrated,8,256,400
 Lenovo,Legion 5,R7-5800H,RTX 3060,16,512,1350
 MSI,GF63 Thin,i5-11400H,GTX 1650,8,512,750
 MSI,Cyborg 15,i7-12650H,RTX 4050,16,512,1500
+Acer,Swift 3,i5-1135G7,Integrated,8,512,680
+Acer,Predator Helios 300,i7-11800H,RTX 3060,16,512,1550
+Acer,Aspire 7,R5-5500U,GTX 1650,8,512,700
+Acer,Predator Triton 300,i7-12700H,RTX 3070,16,1,2100
+Asus,TUF Gaming F15,i5-11400H,RTX 3050,8,512,900
+Asus,ZenBook 14,i7-1165G7,Integrated,16,512,1000
+Asus,VivoBook Pro 15,R7-5800H,RTX 3050,16,512,1300
+Asus,ROG Zephyrus G14,R7-6800HS,RTX 3060,16,512,1700
+Dell,XPS 13,i7-1165G7,Integrated,16,512,1400
+Dell,Latitude 5420,i5-1145G7,Integrated,16,512,1200
+Dell,Alienware m15 R6,i7-11800H,RTX 3070,16,1,2300
+Dell,G7 15,i7-10750H,RTX 2060,16,512,1300
+HP,Envy x360,R5-5500U,Integrated,8,512,750
+HP,Omen 15,R7-5800H,RTX 3060,16,512,1500
+HP,EliteBook 845 G8,R7-5850U,Integrated,16,512,1600
+HP,ProBook 450,i5-1135G7,Integrated,8,256,620
+Lenovo,ThinkPad X1 Carbon,i7-1165G7,Integrated,16,512,1650
+Lenovo,ThinkPad E14,i5-1135G7,Integrated,8,512,680
+Lenovo,Legion 7,R9-5900HX,RTX 3080,32,1,2800
+Lenovo,IdeaPad Gaming 3,R5-5600H,GTX 1650,8,512,750
+MSI,Katan a GF76,i7-11800H,RTX 3060,16,512,1350
+MSI,Modern 14,i5-1135G7,Integrated,8,512,650
+MSI,Bravo 15,R5-5600H,RTX 3050,16,512,1050
+MSI,Stealth 15M,i7-11375H,RTX 3060,16,512,1600
+Samsung,Galaxy Book Pro,i7-1165G7,Integrated,16,512,1300
+Samsung,Galaxy Book,i5-1135G7,Integrated,8,256,700
+Samsung,Galaxy Book Ion,i7-10510U,Integrated,8,512,1100
+Huawei, MateBook D15,i5-1135G7,Integrated,8,512,720
+Huawei, MateBook X Pro,i7-1165G7,Integrated,16,1,1800
+Huawei, MateBook 14,R5-4600H,Integrated,16,512,950
+Xiaomi, Mi Notebook Pro,i7-11370H,Integrated,16,512,1100
+Xiaomi, RedmiBook 15,i3-1115G4,Integrated,8,256,430
+Xiaomi, Mi Gaming Laptop,i7-9750H,RTX 2060,16,512,1500
+Razer,Blade 15 Base,i7-10750H,RTX 2060,16,512,1800
+Razer,Blade 14,R9-5900HX,RTX 3070,16,1,2500
+Razer,Book 13,i7-1165G7,Integrated,16,512,1600
