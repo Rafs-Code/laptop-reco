@@ -21,7 +21,6 @@ scikit-learn dan UI interaktif menggunakan Streamlit.
     │  └─ app/
     │     ├─ __init__.py
     │     └─ streamlit_app.py
-    ├─ main.ipynb
     ├─ requirements.txt
     └─ README.md
 
